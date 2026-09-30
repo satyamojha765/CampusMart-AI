@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1037018188530",
+    "project_id": "campusmart-cf8c2",
+    "storage_bucket": "campusmart-cf8c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037018188530:android:4029d39318a7874cb79e6b",
+        "android_client_info": {
+          "package_name": "com.campusmart.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037018188530-thio2p1nn6ra85im4ufgnddntd14m11p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.campusmart.app",
+            "certificate_hash": "42f82586d9fe3cc71dee6443742fb7846f6239ca"
+          }
+        },
+        {
+          "client_id": "1037018188530-d288vlg348b32cvjn7vs2q3a8g4jbog7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsnyu1Qmas7QsTEdqk4e_4UGZthmmFwKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037018188530-d288vlg348b32cvjn7vs2q3a8g4jbog7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
